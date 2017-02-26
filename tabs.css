@@ -1,0 +1,25 @@
+body {
+  background-color: #00ff99;
+}
+
+span.sansserif{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a:hover {
+    color: #ff3300;
+}
+h1{
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+div{
+  font-size: 15px;
+  font-style: none;
+  font-weight: lighter;
+}
+#firstline:hover{
+  background-color: blue;
+}
